@@ -1,12 +1,4 @@
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=fionachan01.README&left_color=green&right_color=red)
 
-<div align="left">
-  <a href="https://careers.microsoft.com/professionals/us/en/l-shanghai"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>&emsp;
-  <a href="https://www.linkedin.com/in/qianchenchen2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&emsp;
-  <a href="https://www.instagram.com/qianchen.cchen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&emsp;
-  <a href="https://www.xiaohongshu.com/user/profile/5b59d2c9e8ac2b162da434dc?xhsshare=CopyLink&appuid=5b59d2c9e8ac2b162da434dc&apptime=1667907134"><img src="https://github.com/FionaChan01/FionaChan01.github.io/blob/master/images/xiaohongshu.png" width="28px"></a>&emsp;
-
-</div>
 
 - <img src="https://raw.githubusercontent.com/FionaChan01/FionaChan01.github.io/master/images/Hi.gif" width="20px"> Hi, I’m Junliang He, happy to meet u here!
 - 👀 For now, I’m interested in FL and NLP, and these are the places where my recently research lays.
@@ -16,20 +8,3 @@
 - 📮 Contact me: qianchen.chen@outlook.com
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fionachan01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-![Qianchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=fionachan01&count_private=true&show_icons=true&theme=moltack)
-
- -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fionachan01&repo=medi-BERT&theme=moltack)](https://github.com/fionachan01/github-readme-stats)
- -->
-
-<!---
-FionaChan01/FionaChan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
